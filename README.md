@@ -10,6 +10,12 @@ Hi, my name is Pham Nam. I am a student at FPT College, majoring in website prog
 # 📚My Project:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhamNamWk&repo=Admin-Page-Ecommerce&theme=tokyonight&description=b)](https://github.com/PhamNamWk/Admin-Page-Ecommerce)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhamNamWk&repo=ztech&theme=maroongold&description=b)](https://github.com/PhamNamWk/ztech)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=PhamNamWk&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 
