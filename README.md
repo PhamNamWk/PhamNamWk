@@ -8,7 +8,7 @@ Hi, my name is Pham Nam. I am a student at FPT College, majoring in website prog
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamNamWk&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhamNamWk&repo=Admin-Page-Ecommerce&theme=tokyonight)](https://github.com/PhamNamWk/Admin-Page-Ecommerce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhamNamWk&repo=Admin-Page-Ecommerce&theme=tokyonight&description=avb)](https://github.com/PhamNamWk/Admin-Page-Ecommerce)
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=PhamNamWk&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 
