@@ -12,7 +12,7 @@ Hi, my name is Pham Nam. I am a student at FPT College, majoring in website prog
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhamNamWk&repo=ztech&theme=maroongold&card_height=320)](https://github.com/PhamNamWk/ztech)
 
 <a href="https://github.com/PhamNamWk/ztech">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamNamWk&repo=ztech&theme=maroongold&card_width=320" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamNamWk&repo=ztech&theme=maroongold&card_width=320" />
 </a>
 
 ## 🏆GitHub Trophies
