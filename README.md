@@ -8,6 +8,9 @@ Hi, my name is Pham Nam. I am a student at FPT College, majoring in website prog
 
 
 # 📚My Project:
+<a href="[https://github.com/PhamNamWk/Admin-Page-Ecommerce](https://github.com/PhamNamWk/FitMe)">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamNamWk&repo=Admin-Page-Ecommerce&theme=tokyonight&card_width=320" />
+</a>
 
 <a href="https://github.com/PhamNamWk/Admin-Page-Ecommerce">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamNamWk&repo=Admin-Page-Ecommerce&theme=tokyonight&card_width=320" />
