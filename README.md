@@ -8,11 +8,9 @@ Hi, my name is Pham Nam. I am a student at FPT College, majoring in website prog
 
 
 
-![Snake animation](https://github.com/PhamNamWk/PhamNamWk/blob/output/github-contribution-grid-snake.svg)
-
 
 <a href="https://github.com/PhamNamWk/FitMe">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamNamWk&repo=FitMe&theme=tokyonight&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamNamWk&repo=FitMe&theme=transparent&card_width=320" />
 </a>
 
 <a href="https://github.com/PhamNamWk/Admin-Page-Ecommerce">
