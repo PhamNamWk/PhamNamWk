@@ -7,8 +7,8 @@ Hi, my name is Pham Nam. I am a student at FPT College, majoring in website prog
 ![](https://github-readme-stats.vercel.app/api?username=PhamNamWk&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)                      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamNamWk&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-![Snake animation](https://github.com/PhamNamWk)
 
+![Snake animation](https://github.com/PhamNamWk/PhamNamWk/blob/output/github-contribution-grid-snake.svg)
 
 
 <a href="https://github.com/PhamNamWk/FitMe">
